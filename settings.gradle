@@ -1,0 +1,3 @@
+rootProject.name='bugly'
+include ':app'
+include ':crashreport'
